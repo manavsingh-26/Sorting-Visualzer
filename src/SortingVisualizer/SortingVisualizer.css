@@ -1,11 +1,10 @@
-.array-box{
-    position: relative;
-    top: 3rem;
-    bottom: 2rem;
-    min-height: 500px;
-    
-   
-    align-items: center;
-    text-align: center;
-    margin: 5%;
+.array-box {
+  position: relative;
+  top: 3rem;
+  bottom: 2rem;
+  min-height: 500px;
+
+  align-items: center;
+  text-align: center;
+  margin: 5%;
 }
